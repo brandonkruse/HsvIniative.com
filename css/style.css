@@ -548,10 +548,18 @@ header {
     font-family: 'Signika', sans-serif;
     font-weight: 600;
     font-size: 35px;
-    margin: 41px 0px 0px 0px;
+    margin: 21px 0px 0px 0px;
     text-align: left;
     float: left;
     width: 100%;
+}
+
+#mentors h2 a {
+    color: #5E8DBD;
+}
+
+#mentors h2 a:hover {
+    color: #79BE29;
 }
 
 #mentors p {
