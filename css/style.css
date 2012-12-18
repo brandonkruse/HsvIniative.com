@@ -554,11 +554,11 @@ header {
     width: 100%;
 }
 
-#mentors h2 a {
+#mentors a {
     color: #5E8DBD;
 }
 
-#mentors h2 a:hover {
+#mentors a:hover {
     color: #79BE29;
 }
 
